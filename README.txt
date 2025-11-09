@@ -23,7 +23,7 @@ This is a simple machine learning web app built with **Python** and **Streamlit*
 ## ⚙️ Installation
 
 # 1️⃣ Clone the repository
-git clone https://github.com/AghoshKK/Email-SMS-Spam-Classifier.git
+git clone https://github.com/aswin1024/Email-Spam-Classifier
 cd Email-SMS-Spam-Classifier
 
 # 2️⃣ Install dependencies
